@@ -259,12 +259,11 @@ under this Agreement are reserved. Nothing in this Agreement is intended
 to be enforceable by any entity that is not a Contributor or Recipient.
 No third-party beneficiary rights are created under this Agreement.
 
-Exhibit A - Form of Secondary Licenses Notice
+Exhibit A - CC-BY-3.0
 
-"This Source Code is also Distributed under one
+This Source Code is also Distributed under one
 or more Secondary Licenses, as those terms are defined by
-the Eclipse Public License, v. 2.0: {name license(s),version(s),
-and exceptions or additional permissions here}."
+the Eclipse Public License, v. 2.0: CC-BY-3.0.
 
   Simply including a copy of this Agreement, including this Exhibit A
   is not sufficient to license the Source Code under Secondary Licenses.
